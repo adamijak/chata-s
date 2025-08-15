@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/adamijak/chata-s'
 languageCode = 'cs-cz'
 title = 'Chata S'
 theme = 'hugo-book'
