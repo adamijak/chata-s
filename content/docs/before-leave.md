@@ -3,4 +3,4 @@ Title = 'Před odjezdem'
 +++
 
 Zavřít vodu
-![Uzávěr](/images/valve.jpeg)
+![Uzávěr](/chata-s/images/valve.jpeg)
