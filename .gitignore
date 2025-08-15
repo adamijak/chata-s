@@ -1,0 +1,20 @@
+# Hugo build output
+/public/
+
+# Hugo cache (faster builds, can be regenerated)
+/resources/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/project files
+.idea/
+.vscode/
+*.log
+
+# Node modules (if using npm/yarn for assets)
+node_modules/
+
+# Optional: Ignore Hugo stats file
+hugo_stats.json
