@@ -1,4 +1,4 @@
-baseURL = 'https://adamijak.github.io'
+baseURL = 'https://adamijak.github.io/chalupa-kd/'
 languageCode = 'cs-cz'
-title = 'Chata S'
+title = 'Chalupa K.D.'
 theme = 'hugo-book'

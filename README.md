@@ -1,1 +1,1 @@
-# chata-s
+# chalupa-kd
